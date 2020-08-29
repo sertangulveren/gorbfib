@@ -8,9 +8,8 @@ With the same logic, The same fibonacci function was written with Ruby.
 
 Benchmark results were obtained with the `benchmark` module.
 #### Results:
-➜  gorbfib 
 
-➜  gorbfib ruby fib.rb 
+➜ ruby fib.rb 
 
 | Library | user     | system   | total    | real         |
 | ------- | -------- | -------- | -------- | ------------ |
