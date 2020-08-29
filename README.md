@@ -1,6 +1,6 @@
 # Working with Golang Libraries on Ruby instance.
 
-This is the example of embedding Golang functions to Ruby instance.
+This is the example of embedding Golang functions to Ruby instance. The package written with Go was built as C-shared library.
 
 ## Fibonacci Benchmark
 Imported a fibonacci function that writen in Golang using the `ffi` gem.   
